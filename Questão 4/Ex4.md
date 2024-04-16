@@ -1,0 +1,2 @@
+Primeiro ligo o 1º interruptor e deixo ligado por alguns minutos. Depois de alguns minutos eu desligo o primeiro interruptor e ligo o 2º interruptor, e então vou até uma das salas.
+Se a lampada estiver acessa, pertence ao 2º interruptor, se estiver desligada e quente pertence ao 1º interruptor, se estiver desligada e fria pertence ao 3º interruptor.
